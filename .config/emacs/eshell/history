@@ -1,0 +1,34 @@
+ls -l
+ls -a
+ls -la
+ clear 
+ls -a
+cd .confing/emacs
+cd .config/emacs
+ls -la
+ git 
+ git --version
+clear 
+cd ~
+git config --global user.name "24x7fpga"
+git config --global user.email "kiran.24x7fpga@gmail.com"
+git config --list
+ls 
+cd Desktop/
+ls -la
+mkdir testing
+cd testing/
+mkdir testing 2
+ls
+rm -f testing 2
+ls 
+rm -f -r testing/
+rm -f -r 2/
+ls 
+mkdir testing2
+mkdir testing3
+ls -l
+cd testing2/
+vim file2.txt
+sudo apt-get install vim
+vim file2.txt
