@@ -1,0 +1,16 @@
+#+Title: Configuration files
+#+Description: Configuration files for Linux.
+#+Startup: showeverything
+#+Options: toc:3
+
+
+# Table of contents :toc:
+
+
+
+# .config
+ These files are custommized to personal needs. When changing work stations, clone the repository to the use these files. 
+  
+  
+ 
+
