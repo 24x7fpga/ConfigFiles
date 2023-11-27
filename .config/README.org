@@ -9,7 +9,7 @@
 
 
 # .config
- 
+ These files are custommized to personal needs. When changing work stations, clone the repository to the use these files. 
   
   
  
